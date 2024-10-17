@@ -76,3 +76,7 @@ The user may need to license additional code, widgets or other patches to make t
 5.	What are the conditions for modifying the software?
 **You can contact Opticks community to become a member to contribute.**
 **(https://www.opticks.org/community/)**
+
+6.	Where can the source code be acquired (link)?
+**Yes, here: https://github.com/opticks-org/opticks/archive/refs/tags/v4.12.2.zip**
+
