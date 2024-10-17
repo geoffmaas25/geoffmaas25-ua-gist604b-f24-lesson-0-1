@@ -64,15 +64,12 @@ The user may need to license additional code, widgets or other patches to make t
 1.	What is the name of the software?
    **Opticks (Remote Sensing Software)**
 
-2.	What is the name of the software?
+2.	What is the software version?
    **4.12.2 (https://github.com/opticks-org/opticks/releases/tag/v4.12.2)**
 
-3.	What is the name of the software?
+3. What is the name of the license is it distributed under? 
    **GNU LGPL 2.1**
 
- 4. What is the name of the software?
-   **GNU LGPL 2.1**
-
-5. What are the conditions for re-distributing the software?
+4. What are the conditions for re-distributing the software?
    **The software is free and open subject to the standard terms of the GNU LGPL 2.1 license language (https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)**
    
