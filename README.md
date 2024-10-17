@@ -73,3 +73,6 @@ The user may need to license additional code, widgets or other patches to make t
 4. What are the conditions for re-distributing the software?
    **The software is free and open subject to the standard terms of the GNU LGPL 2.1 license language (https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)**
    
+5.	What are the conditions for modifying the software?
+**You can contact Opticks community to become a member to contribute.**
+**(https://www.opticks.org/community/)**
