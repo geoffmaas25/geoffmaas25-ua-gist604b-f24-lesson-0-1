@@ -44,10 +44,17 @@ The user may need to license additional code, widgets or other patches to make t
 - New site: https://imagej.net/software/imagej2/
 - Link to License: https://github.com/imagej/imagej/blob/master/LICENSE.txt
 
-**Project 2 - Find an Open-source project with a lesser GNU licensee**
-- Name of the project FreeCAD
-- Name of license: lesser GNU license (LPGL)
+**Project 2 - Find an Open-source project with a Lesser GNU license**
+- Name of the project **FreeCAD**
+- Name of license: Lesser GNU license (LPGL)
 - Link to project: https://www.freecad.org/
 - Link to project on GitHub: https://github.com/FreeCAD/FreeCAD
 - New site: https://imagej.net/software/imagej2/
 - Link to License: https://github.com/FreeCAD/FreeCAD/blob/main/LICENSE
+
+**Project 3 - Find an Open-source project with a Copy Left license**
+- Name of the project: Mozilla Firefox (web browser)
+- Name of license: GNU General Public License
+- Link to project: https://www.mozilla.org/en-US/firefox/
+- Link to project on GitHub: https://github.com/topics/mozilla-firefox
+- Link to License: https://www.mozilla.org/en-US/MPL/2.0/
