@@ -80,3 +80,12 @@ The user may need to license additional code, widgets or other patches to make t
 6.	Where can the source code be acquired (link)?
 **Yes, here: https://github.com/opticks-org/opticks/archive/refs/tags/v4.12.2.zip**
 
+7.	Where can you report and track bugs?
+**Opticks community page: https://www.opticks.org/community/**
+
+8. How can you become a contributor to this project?
+**- Joining the Opticks community at https://www.opticks.org/community/**
+**- By actively fixing an existing bug**
+**- By writing and contributing an extention**
+
+
