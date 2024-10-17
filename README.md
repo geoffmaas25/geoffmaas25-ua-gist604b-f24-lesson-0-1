@@ -61,8 +61,18 @@ The user may need to license additional code, widgets or other patches to make t
 
 ## Part 3 - Identify software that you use on a regular basis or which you have heard about which is distributed with an Open-source license. Do not select software that is listed in the syllabus for this course. ##
 
-**Project 1 - Find an open-source project with a pulic domain license**
-- Name of the project **ImageJ/ImageJ2**
-- Name of license: Public Domain License
-- Link to project: https://imagej.net/ij/
-- New site: https://imagej.net/software/imagej2/
+1.	What is the name of the software?
+   **Opticks (Remote Sensing Software)**
+
+2.	What is the name of the software?
+   **4.12.2 (https://github.com/opticks-org/opticks/releases/tag/v4.12.2)**
+
+3.	What is the name of the software?
+   **GNU LGPL 2.1**
+
+ 4. What is the name of the software?
+   **GNU LGPL 2.1**
+
+5. What are the conditions for re-distributing the software?
+   **The software is free and open subject to the standard terms of the GNU LGPL 2.1 license language (https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)**
+   
