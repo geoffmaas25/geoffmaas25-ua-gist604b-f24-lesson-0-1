@@ -1,10 +1,10 @@
-# Geoff Maas (geoffmaas25) GIST 604A - Lesson 0-1
+# Geoff Maas (geoffmaas25) GIST 604B-Lesson 0-1
 
 **Part 1 - Do your own research and answer the following:**
 
 *1. Make a list of pros and cons of using open-source software:*
    
-   Pros:
+   **Pros:**
    
    Open-source software is free of charge
    Open-source software is often highly customizable in that the user has the ability to make changes to meet their specific own needs
