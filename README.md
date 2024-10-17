@@ -34,3 +34,12 @@ The user may need to license additional code, widgets or other patches to make t
 **4.	What is the difference between Free software and Open-source software?**
    
 *From the reading I did, the emphasis on the word ‘free’ and the adherence to the concept of ‘freedom’ applying to the software seem to be running themes in many discussions; my understanding is that "all free software is open-source software, but not all open-source software is free software". Free software generally has no cover of licensing of any kind, while open-source software may still be covered by some time (even if highly permissive) of software license or other restriction.*
+
+## Part 2 - Find three software projects that use open-source projects with specific licenses.  ##
+
+**Project 1 - Find an open-source project with a pulic domain license**
+- Name of the project ImageJ/ImageJ2
+- Name of license: Public Domain License
+- Link to project: https://imagej.net/ij/
+- New site: https://imagej.net/software/imagej2/
+- Link to License: https://github.com/imagej/imagej/blob/master/LICENSE.txt
