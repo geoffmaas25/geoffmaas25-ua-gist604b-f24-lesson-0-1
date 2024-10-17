@@ -43,3 +43,11 @@ The user may need to license additional code, widgets or other patches to make t
 - Link to project: https://imagej.net/ij/
 - New site: https://imagej.net/software/imagej2/
 - Link to License: https://github.com/imagej/imagej/blob/master/LICENSE.txt
+
+**Project 2 - Find an Open-source project with a lesser GNU licensee**
+- Name of the project FreeCAD
+- Name of license: lesser GNU license (LPGL)
+- Link to project: https://www.freecad.org/
+- Link to project on GitHub: https://github.com/FreeCAD/FreeCAD
+- New site: https://imagej.net/software/imagej2/
+- Link to License: https://github.com/FreeCAD/FreeCAD/blob/main/LICENSE
