@@ -38,7 +38,7 @@ The user may need to license additional code, widgets or other patches to make t
 ## Part 2 - Find three software projects that use open-source projects with specific licenses.  ##
 
 **Project 1 - Find an open-source project with a pulic domain license**
-- Name of the project ImageJ/ImageJ2
+- Name of the project **ImageJ/ImageJ2**
 - Name of license: Public Domain License
 - Link to project: https://imagej.net/ij/
 - New site: https://imagej.net/software/imagej2/
