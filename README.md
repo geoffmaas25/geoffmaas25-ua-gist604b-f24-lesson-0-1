@@ -26,3 +26,7 @@ The user may need to license additional code, widgets or other patches to make t
 **2. Why might Open-source software be popular for cloud computing?:**
    
 *As cloud computing enables access and use to storage resources via internet; it has the ability to serve multiple needs of multiple customers simultaneous, can be scaled up or down with relative ease and resources can be accessed quickly and in an on-demand basis and enables a sizable amount of user control. This aligns well with the goals, function, philosophy and collaborative nature of communities of developers and users creating open source software as access to the cloud can both facilitate and expand to their needs and provide a platform and resource for them to work together.*
+
+**3.	Opinion: What is a strength of Open-source software that you find surprising or counterintuitive? Why?**
+   
+*One of the things I find both useful and counterintuitive is that open-source software often has multiple versions of itself available simultaneously. While it is a strength, and good to maintain a copy of the ‘stable’ and reliable version (usually a few versions back) to ensure its continued function, the need to always make tweaks and upgrades to ensure you’ve got the most current functionality can be a challenge, especially when the most current version might be a little ‘buggy’. Having to maintain both a new and archival version can be a bit of work to manage.*
