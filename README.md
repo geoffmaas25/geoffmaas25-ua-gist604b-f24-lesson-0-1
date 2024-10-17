@@ -58,3 +58,11 @@ The user may need to license additional code, widgets or other patches to make t
 - Link to project: https://www.mozilla.org/en-US/firefox/
 - Link to project on GitHub: https://github.com/topics/mozilla-firefox
 - Link to License: https://www.mozilla.org/en-US/MPL/2.0/
+
+## Part 3 - Identify software that you use on a regular basis or which you have heard about which is distributed with an Open-source license. Do not select software that is listed in the syllabus for this course. ##
+
+**Project 1 - Find an open-source project with a pulic domain license**
+- Name of the project **ImageJ/ImageJ2**
+- Name of license: Public Domain License
+- Link to project: https://imagej.net/ij/
+- New site: https://imagej.net/software/imagej2/
