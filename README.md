@@ -86,9 +86,7 @@ The user may need to license additional code, widgets or other patches to make t
 8. How can you become a contributor to this project?
    
 **- Joining the Opticks community at https://www.opticks.org/community/**
-
 **- By actively fixing an existing bug**
-
 **- By writing and contributing an extention**
 
 
