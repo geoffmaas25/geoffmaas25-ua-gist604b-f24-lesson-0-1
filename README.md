@@ -1,6 +1,6 @@
 # Geoff Maas (geoffmaas25) GIST 604B-Lesson 0-1
 
-##Part 1 - Do your own research and answer the following:##
+## Part 1 - Do your own research and answer the following: ##
 
 *1. Make a list of pros and cons of using open-source software:*
    
