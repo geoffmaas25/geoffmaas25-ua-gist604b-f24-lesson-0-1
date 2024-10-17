@@ -30,3 +30,7 @@ The user may need to license additional code, widgets or other patches to make t
 **3.	Opinion: What is a strength of Open-source software that you find surprising or counterintuitive? Why?**
    
 *One of the things I find both useful and counterintuitive is that open-source software often has multiple versions of itself available simultaneously. While it is a strength, and good to maintain a copy of the ‘stable’ and reliable version (usually a few versions back) to ensure its continued function, the need to always make tweaks and upgrades to ensure you’ve got the most current functionality can be a challenge, especially when the most current version might be a little ‘buggy’. Having to maintain both a new and archival version can be a bit of work to manage.*
+
+**4.	What is the difference between Free software and Open-source software?**
+   
+*From the reading I did, the emphasis on the word ‘free’ and the adherence to the concept of ‘freedom’ applying to the software seem to be running themes in many discussions; my understanding is that "all free software is open-source software, but not all open-source software is free software". Free software generally has no cover of licensing of any kind, while open-source software may still be covered by some time (even if highly permissive) of software license or other restriction.*
